@@ -9,6 +9,10 @@ Welcome to Crypto Monitor, your ultimate companion for tracking real-time crypto
 - **Dynamic Data Display**: Experience dynamic updates as cryptocurrency prices fluctuate in real-time, enabling you to make informed decisions.
 - **User-Friendly Interface**: Navigate the app effortlessly with a user-friendly interface designed for seamless interaction and quick access to relevant information.
 - **Customizable Settings**: Tailor the app to your preferences by customizing currency settings and display options for a personalized experience.
+  ![Simulator Screenshot - iPhone 15 - 2024-02-27 at 12 50 50](https://github.com/RNNivash/Crypto_Monitor/assets/90308206/ecec992e-466c-44ce-971a-388e99aea25d)
+![Simulator Screenshot - iPhone 15 - 2024-02-27 at 12 50 57](https://github.com/RNNivash/Crypto_Monitor/assets/90308206/603a97f1-790b-4805-aa8e-a728a6f8660e)
+
+
 
 ## How to Use
 
